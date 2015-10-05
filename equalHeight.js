@@ -10,7 +10,7 @@
 
 		var settings = $.extend(default_settings,options);
 
-		if((settings.min_width && settings.max_width && $(window).innerWidth()>=settings.min_width && $(window).innerWidth()<=settings.max_width) || (settings.min_width && !settings.max_width && $(window).innerWidth()>=settings.min_width) || (!settings.min_width && settings.max_width && $(window).innerWidth()<=settings.max_width)){
+		if((settings.min_width && settings.max_width && $(window).innerWidth()>=settings.min_width && $(window).innerWidth()<=settings.max_width) || (settings.min_width && !settings.max_width && $(window).innerWidth()>=settings.min_width) || (!settings.min_width && settings.max_width && $(window).innerWidth()<=settings.max_width) || (!settings.min_width && !settings.max_width)){
 			this.each(function() {
 	    		$(this).height("")
 				if(init <= $(this).height())
