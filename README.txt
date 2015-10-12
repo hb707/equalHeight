@@ -16,6 +16,7 @@ $(element).equalHeight({
 	dimension : "none",
 	max_width : 0,
 	min_width : 0,
+	referer : max
 })
 
 -> Description : 
@@ -27,4 +28,6 @@ $(element).equalHeight({
 	max_width : set the max window width to run this plugin (0: disable option)
 
 	min_width : set the min window width to run this plugin (0: disable option)
+
+	referer : Set what height should concider (min, max)
 
