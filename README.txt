@@ -29,5 +29,4 @@ $(element).equalHeight({
 
 	min_width : set the min window width to run this plugin (0: disable option)
 
-	referer : Set what height should concider (min, max)
-
+	referer : Set what height should concider (min, max).
