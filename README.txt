@@ -1,4 +1,4 @@
-# equalHeight v1.1
+# equalHeight v1.1.1
 an easy jQuery Plugin to equal elements height.
 
 ==========================================================
