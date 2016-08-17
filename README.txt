@@ -1,3 +1,6 @@
+# equalHeight v1.2
+It supports the window resize, dont need to trigger it in your main script.
+
 # equalHeight v1.1.1
 an easy jQuery Plugin to equal elements height.
 
