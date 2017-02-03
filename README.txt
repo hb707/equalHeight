@@ -8,7 +8,7 @@ an easy jQuery Plugin to equal elements height.
 For more suggestions you can contact me at :
 
 - facebook : https://www.facebook.com/hosny707
-- gmail : housnibenabid@gmail.com
+- email : contact@hosnyben.me
 - LinkedIn : https://ma.linkedin.com/in/housnibenabid
 ==========================================================
 
